@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8fcef9dc229f61f2",
+        "id": "4990e260b33a7f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c0c28ab380daf4",
+            "id": "a60fa96d27af79ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hello-world/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -202,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb5bb50e4271e",
+  "active": "a60fa96d27af79ca",
   "lastOpenFiles": [
+    "hello-world/asdf.png",
+    "hello-world/index.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
     "unique/202509291914.md",
@@ -228,8 +235,6 @@
     "chemrush.md",
     "big plen.md",
     "kanban/The One.md",
-    "Essay.md",
-    "Dartmouth.md",
     "patches",
     "Untitled.canvas",
     "kanban",

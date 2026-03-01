@@ -71,7 +71,7 @@ meta end-->
 </html>
 """
 
-SRC_DIR = "vault/"
+SRC_DIR = "blog/"
 
 def process_md_file(root: str, file: str):
     path: str = os.path.join(root, file)
