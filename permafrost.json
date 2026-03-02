@@ -1,3 +1,6 @@
 {
-    "source": "blog/"
+    "source": "blog/",
+    "include_dirs": [
+        "scripts/"
+    ]
 }
