@@ -1,4 +1,0 @@
-markdown
-pymdown-extensions
-mdx-wikilink-plus
-pyyaml

@@ -194,8 +194,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "callout-manager:Insert Callout": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -204,10 +202,12 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a60fa96d27af79ca",
+  "active": "fa9bb5bb50e4271e",
   "lastOpenFiles": [
     "hello-world/asdf.png",
     "hello-world/index.md",
@@ -255,7 +255,6 @@
     "Writing Projects/Research/Nov 2025 English/Most important quality.png",
     "Writing Projects/Research/Nov 2025 English/Teaching profession rating.png",
     "Writing Projects/Research/Nov 2025 English/Previously considered career options.png",
-    "Pasted image 20251022175139.png",
     "Writing Projects/73120/Plot.canvas",
     "Kanban/Untitled.canvas",
     "Writing Projects/Mark Seven/Brainstorm.canvas",
