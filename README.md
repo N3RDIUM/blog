@@ -9,3 +9,5 @@ Feel free to check out how the `example.md` is rendered
 work if the 
 [overhaul branch](https://github.com/N3RDIUM/n3rdium.dev/tree/overhaul) isn't
 merged yet.
+
+TODO turn this into a regular vault after releasing the static site generator.
