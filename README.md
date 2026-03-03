@@ -1,0 +1,1 @@
+Markdown blog, powered by obsidian.md and my own static site generator, https://github.com/n3rdium/permafrost/
