@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "progress": "number",
-    "feeds": "multitext"
+    "feeds": "multitext",
+    "published": "date"
   }
 }

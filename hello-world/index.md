@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-03-29
+lastmod: 2026-03-03
 changefreq: never
 priority: "0.1"
 title: Hello world!
@@ -8,6 +8,7 @@ feeds:
   - blog/index.json
   - blog/atom.xml
   - blog/rss.xml
+published: 2026-02-28
 ---
 Hello world! this is a test.
 
