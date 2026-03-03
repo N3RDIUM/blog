@@ -207,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb5bb50e4271e",
+  "active": "a60fa96d27af79ca",
   "lastOpenFiles": [
-    "hello-world/asdf.png",
+    "README.md",
     "hello-world/index.md",
+    "hello-world/asdf.png",
     "unique/202602091041.md",
     "unique/202601061936.md",
     "unique/202509291914.md",
@@ -218,7 +219,6 @@
     "vrtx.md",
     "Voxl Rewrite.md",
     "Universities.md",
-    "README.md",
     "rice.md",
     "Random Ten Digit Numbers.md",
     "Princeton.md",
