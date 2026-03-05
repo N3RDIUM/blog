@@ -13,6 +13,7 @@ tags:
   - test
   - first
 readtime: 1 min read
+template: blog-post
 ---
 Hello world! this is a test.
 

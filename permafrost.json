@@ -1,1 +1,5 @@
-{}
+{
+    "templates": {
+        "blog-post": "_templates/blog-post.html"
+    }
+}
