@@ -5,6 +5,7 @@
     "tags": "tags",
     "progress": "number",
     "feeds": "multitext",
-    "published": "date"
+    "published": "date",
+    "lastmod": "date"
   }
 }

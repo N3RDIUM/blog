@@ -9,7 +9,11 @@ feeds:
   - blog/index.json
   - blog/atom.xml
   - blog/rss.xml
+tags:
+  - test
+  - first
+readtime: 1 min read
 ---
 Hello world! this is a test.
 
-![image test](asdf.png)
+![[./asdf.png]]
