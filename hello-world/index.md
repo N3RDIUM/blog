@@ -13,7 +13,7 @@ tags:
   - test
   - first
 readtime: 1 min read
-template: blog-post
+template: n3rdium.dev
 ---
 Hello world! this is a test.
 

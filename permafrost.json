@@ -1,5 +1,5 @@
 {
     "templates": {
-        "blog-post": "_templates/blog-post.html"
+        "n3rdium.dev": "_templates/n3rdium-dev.html"
     }
 }
