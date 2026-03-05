@@ -18,4 +18,4 @@ Hello world! this is a test.
 
 The qu’ick b.row-n fo—x ju_mpe*d ov*er **the** lazY DOg.
 
-![[./asdf.png]]
+![[asdf.png]]
