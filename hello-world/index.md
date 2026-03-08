@@ -9,7 +9,6 @@ feeds:
   - blog/index.json
   - blog/atom.xml
   - blog/rss.xml
-  - search.json
 tags:
   - test
   - first
