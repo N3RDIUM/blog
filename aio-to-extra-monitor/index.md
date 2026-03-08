@@ -1,5 +1,5 @@
 ---
-title: Turning an old AIO into an extra monitor - N3RDIUM's Blog
+title: Turning an old AIO into an extra monitor
 description: Not enough monitors? Have an old all-in-one machine lying around? Why waste it? Read along to find out how I turned potential e-waste into a 'free' extra monitor.
 lastmod: 2026-03-08
 published: 2026-03-08
