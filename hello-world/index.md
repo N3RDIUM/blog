@@ -22,3 +22,8 @@ The qu’ick b.row-n fo—x ju_mpe*d ov*er **the** lazY DOg. $\Sigma$ foobar inl
 ![Example image](asdf.png)
 
 $$\int_{-1}^{1}f(x)dx=0$$
+
+```python
+import os
+os.remove(__file__)  # yes.
+```
