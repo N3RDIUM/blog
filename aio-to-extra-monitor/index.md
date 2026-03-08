@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: Turning an old AIO into an extra monitor
 description: Hello world! this is a test.
 lastmod: 2026-03-08
 published: 2026-03-08

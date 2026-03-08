@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: How to make a website from scratch
 description: Hello world! this is a test.
 lastmod: 2026-03-07
 published: 2026-03-07
