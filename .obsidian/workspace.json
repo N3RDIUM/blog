@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aio-to-extra-monitor/index.md",
+                "file": "post-ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "post-ideas"
             }
           }
         ]
@@ -209,9 +209,10 @@
   },
   "active": "d0d4696a42f14619",
   "lastOpenFiles": [
-    "hello-world/index.md",
-    "website-from-scratch/index.md",
     "aio-to-extra-monitor/index.md",
+    "post-ideas.md",
+    "website-from-scratch/index.md",
+    "hello-world/index.md",
     "aio-to-extra-monitor/Untitled.md",
     "aio-to-extra-monitor",
     "website-from-scratch",
