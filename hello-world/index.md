@@ -15,7 +15,7 @@ tags:
 readtime: 1 min read
 template: n3rdium.dev
 ---
-Hello world! this is a test.
+Hello world! this is a `te$t`.
 
 The qu’ick b.row-n fo—x ju_mpe*d ov*er **the** lazY DOg. $\Sigma$ foobar inline
 
