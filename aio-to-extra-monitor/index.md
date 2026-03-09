@@ -27,10 +27,10 @@ When I had a quick look at the ports, though, I was heartbroken. No HDMI, no Dis
 ## How
 My method is probably really inefficient and more complicated than it needs to be. But it works. I create a virtual “headless” output on Hyprland (my go-to wayland compositor) and start a vnc server on it (using `wayvnc`).
 
-Then, the AIO connects to the main rig using a vnc client (I tried many clients, and found `tigervnc` to work the best). Of course, everything is connected over gigabit ethernet for sanity.
+Then, the AIO connects to the main rig using a vnc client (I tried many clients, and found `tigervnc` to work the best). Everything is connected over gigabit ethernet for sanity.
 ## QoL Updates
 I’ve also added some cool functionality, like the ability to change display brightness (via `ddcutil`) and temperature (via `hyprsunset`) automatically based on time of day, ask the vnc client to reconnect manually, and auto-reconnect the client if it was somehow disconnected.
 ## Conclusion
-I’m going to release the nixos configuration of the second monitor on GitHub soon. Also planning to turn an old laptop I had into a THIRD monitor.
+I’m going to release the nixos configuration of the second monitor on GitHub soon. Also planning to turn an old laptop into a THIRD monitor.
 
 I've also been working on a “hologram” display for desk widgets that makes use of more old hardware. Will be releasing it “soon”. Stay tuned for more cool DIY stuff!
