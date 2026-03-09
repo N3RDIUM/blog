@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world/index.md",
+                "file": "aio-to-extra-monitor/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -209,9 +209,9 @@
   },
   "active": "d0d4696a42f14619",
   "lastOpenFiles": [
-    "aio-to-extra-monitor/index.md",
     "hello-world/index.md",
     "hello-world/asdf.webp",
+    "aio-to-extra-monitor/index.md",
     "post-ideas.md",
     "website-from-scratch/index.md",
     "aio-to-extra-monitor/Untitled.md",

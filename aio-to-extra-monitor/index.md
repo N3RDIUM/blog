@@ -19,7 +19,7 @@ template: n3rdium.dev
 # Turning an old AIO into an extra monitor
 Long time no see! I decided to check back in and assure you that I'm still very much alive and making more cool stuff. My schedule has never been this packed. I've got multiple waves of exams headed my way, and it's going to stay like that till around April 2026.
 
-I've always dreamed of having more than one monitor. But I'm broke, so there's no way I'd actually buy one. Ever since I upgraded to a new machine after having lived way too long off an HP Pavilion 20 (not even kidding, it has an Intel Pentium G2020), I've been nagged by the idea countless times: "What if I used it as an extra monitor?"
+I've always dreamed of having more than one monitor. But I'm broke, so there's no way I'd actually buy one. Ever since I upgraded to a new machine after having lived way too long off an HP Pavilion 20 (not even kidding, it has an Intel Pentium G2020), the idea lived rent-free in my head: "What if I used it as an extra monitor?"
 
 One fine day, it had crossed the threshold. From the depths of my... 'stowage', I pulled out the poor old AIO. It was still alive, running EndeavourOS (amazing distro/community btw).
 
