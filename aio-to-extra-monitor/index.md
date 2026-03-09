@@ -21,7 +21,7 @@ Long time no see! I decided to check back in and assure you that I'm still very 
 
 I've always dreamed of having more than one monitor. But I'm broke, so there's no way I'd actually buy one. Ever since I upgraded to a new machine after having lived way too long off an HP Pavilion 20 (not even kidding, it has an Intel Pentium G2020), the idea lived rent-free in my head: "What if I used it as an extra monitor?"
 
-One fine day, it had crossed the threshold. From the depths of my... 'stowage', I pulled out the poor old AIO. It was still alive, running EndeavourOS (amazing distro/community btw).
+One fine day, it had crossed the threshold. From the depths of my... 'stowage', I pulled out the poor old AIO. It was still alive, running EndeavourOS (amazing {distro, community} btw).
 
 When I had a quick look at the ports, though, I was heartbroken. No HDMI, no DisplayPort, no VGA, nothing. If I really wanted a 'new' monitor, I would have to get creative in my approach.
 ## How
