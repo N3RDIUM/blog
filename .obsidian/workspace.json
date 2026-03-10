@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world/index.md",
+                "file": "website-from-scratch/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -209,14 +209,14 @@
   },
   "active": "41b6434274ff4e54",
   "lastOpenFiles": [
-    "website-from-scratch/index.md",
     "post-ideas.md",
+    "hello-world/index.md",
+    "website-from-scratch/index.md",
     "website-from-scratch/homepage-lighthouse-report.png",
     "aio-to-extra-monitor/index.md",
     "hello-world/asdf.webp",
     "website-from-scratch",
     "hello-world/asdf.png",
-    "hello-world/index.md",
     "aio-to-extra-monitor/Untitled.md",
     "aio-to-extra-monitor",
     "website-from-scratch",
