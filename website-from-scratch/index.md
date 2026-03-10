@@ -18,7 +18,7 @@ readtime: 5 min read
 template: n3rdium.dev
 ---
 # How I Made A Website From Scratch In Two Weeks
-Ever since I came across the [dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory), I’ve foudn the “modern” web a little… unsettling. On the bright side of things, I came across [neocities](https://neocities.org/) going down the same rabbit-hole.
+Ever since I came across the [dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory), I’ve found the “modern” web a little… unsettling. On the bright side of things, I came across [neocities](https://neocities.org/) going down the same rabbit-hole.
 
 I decided to remake my personal website from scratch, to answer: “If I were to make a website from scratch today, what would I do differently?”
 
