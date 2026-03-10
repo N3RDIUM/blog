@@ -1,5 +1,5 @@
 ---
-title: How I Made A Website From Scratch In Two Weeks - N3RDIUM's Blog
+title: How I Made A Website From Scratch In Two Weeks
 description: If I were to make a website from scratch today, what would I do differently? To answer this question, I decided to remake my personal website from scratch.
 lastmod: 2026-03-10
 published: 2026-03-10
