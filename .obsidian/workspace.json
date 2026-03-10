@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df8eae7434070b5f",
+        "id": "6b194472a5f7faa4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d4696a42f14619",
+            "id": "41b6434274ff4e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aio-to-extra-monitor/index.md",
+                "file": "website-from-scratch/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -207,19 +207,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0d4696a42f14619",
+  "active": "41b6434274ff4e54",
   "lastOpenFiles": [
-    "hello-world/index.md",
-    "hello-world/asdf.webp",
-    "aio-to-extra-monitor/index.md",
     "post-ideas.md",
+    "website-from-scratch/homepage-lighthouse-report.png",
     "website-from-scratch/index.md",
+    "aio-to-extra-monitor/index.md",
+    "hello-world/asdf.webp",
+    "website-from-scratch",
+    "hello-world/asdf.png",
+    "hello-world/index.md",
     "aio-to-extra-monitor/Untitled.md",
     "aio-to-extra-monitor",
     "website-from-scratch",
     "_templates/blog-post.html",
     "_templates",
-    "hello-world/asdf.png",
     "README.md",
     "unique/202602091041.md",
     "unique/202601061936.md",
@@ -239,14 +241,12 @@
     "Ethereal.md",
     "Arlington.md",
     "3d ui thing.md",
-    "Crossing.md",
     "patches",
     "Untitled.canvas",
     "kanban",
     "Harvard.md~",
     "unis",
     "unique",
-    "fleet",
     "Writing Projects/Research/Nov 2025 Physics/transformer_illustration.png",
     "Writing Projects/Research/Nov 2025 English/Motivations.png",
     "Writing Projects/Research/Nov 2025 English/Experience.png",
@@ -254,7 +254,6 @@
     "Writing Projects/Research/Nov 2025 English/Challenges.png",
     "Writing Projects/Research/Nov 2025 English/Do t-s relationships impact learning outcomes.png",
     "Writing Projects/Research/Nov 2025 English/Most important quality.png",
-    "Writing Projects/Research/Nov 2025 English/Teaching profession rating.png",
     "Writing Projects/73120/Plot.canvas",
     "Kanban/Untitled.canvas",
     "Writing Projects/Mark Seven/Brainstorm.canvas",
