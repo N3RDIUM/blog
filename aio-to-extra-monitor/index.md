@@ -13,7 +13,7 @@ feeds:
 tags:
   - weekend-project
   - diy
-readtime: 1 min read
+readtime: 3 min read
 template: n3rdium.dev
 ---
 # Turning an Old AIO Into an Extra Monitor
