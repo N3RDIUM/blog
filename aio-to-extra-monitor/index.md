@@ -1,5 +1,5 @@
 ---
-title: Turning an old AIO into an extra monitor
+title: Turning an Old AIO Into an Extra Monitor
 description: Not enough monitors? Have an old all-in-one machine lying around? Why waste it? Read along to find out how I turned potential e-waste into a 'free' extra monitor.
 lastmod: 2026-03-08
 published: 2026-03-08
@@ -16,7 +16,7 @@ tags:
 readtime: 1 min read
 template: n3rdium.dev
 ---
-# Turning an old AIO into an extra monitor
+# Turning an Old AIO Into an Extra Monitor
 Long time no see! I decided to check back in and assure you that I'm still very much alive and making more cool stuff. My schedule has never been this packed. I've got multiple waves of exams headed my way, and it's going to stay like that till around April 2026.
 
 I've always dreamed of having more than one monitor. But I'm broke, so there's no way I'd actually buy one. Ever since I upgraded to a new machine after having lived way too long off an HP Pavilion 20 (not even kidding, it has an Intel Pentium G2020), the idea lived rent-free in my head: "What if I used it as an extra monitor?"
