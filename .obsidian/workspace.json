@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "a91306217691d425",
@@ -179,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "website-from-scratch/index.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -207,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa9bb5bb50e4271e",
+  "active": "9883d105ff45e414",
   "lastOpenFiles": [
     "website-from-scratch/homepage-lighthouse-report.png",
     "aio-to-extra-monitor/index.md",
